@@ -12,3 +12,4 @@ C:\Users\Desarrollo\Inventario\Inventario\obj\Debug\net8.0\refint\Inventario.dll
 C:\Users\Desarrollo\Inventario\Inventario\obj\Debug\net8.0\Inventario.pdb
 C:\Users\Desarrollo\Inventario\Inventario\obj\Debug\net8.0\Inventario.genruntimeconfig.cache
 C:\Users\Desarrollo\Inventario\Inventario\obj\Debug\net8.0\ref\Inventario.dll
+C:\Users\Desarrollo\Inventario\Inventario\obj\Debug\net8.0\Inventario.sourcelink.json
